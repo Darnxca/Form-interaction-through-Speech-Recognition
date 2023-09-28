@@ -1,0 +1,12 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1695021217681;Avvio esperimento 1 ;;0
+1695021222951;Selezione del valore uomo nella select genere;uomo;5270
+1695021228984;Si è verificato un errore selezione di uomo nella select genere;uomo;6033
+1695021228984;Selezione del valore:  nella select genere;;0
+1695021240151;Selezione del valore emilia romagna nella select regione;emilia romagna;11167
+1695021245730;Errore comando input provincia regione bologna non capito;input provincia regione bologna;5579
+1695021254363;Errore comando input provincia regione bologna non capito;input provincia regione bologna;8633
+1695021264643;Errore comando input provincia regione bologna non capito;input provincia regione bologna;10280
+1695021274066;Errore comando input provincia non capito;input provincia;9423
+1695021282943;Selezione del valore bologna nella select provincia;bologna;8877
+1695021286620;Fine esperimento 1 ;;68940

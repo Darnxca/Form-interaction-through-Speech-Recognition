@@ -1,0 +1,28 @@
+Timestamp; Azione;Valore; Tempo di esecuzione (ms)
+1,69408E+12;Avvio esperimento 3 ;;0
+1,69408E+12;Inserimento del valore mario nel campo nome;mario;5863
+1,69408E+12;Inserimento del valore rossi nel campo cognome;rossi;4648
+1,69408E+12;Inserimento del valore mars nel campo soprannome;mars;3899
+1,69408E+12;Inserimento del valore mariorossi@gmail.com nel campo email;mariorossi@gmail.com;4948
+1,69408E+12;Inserimento del valore 31 nel campo età;31;3475
+1,69408E+12;Esecuzione comando no per non confermare il valore Agrigento della select Agrigento;no;5709
+1,69408E+12;Esecuzione comando no per non confermare il valore Alessandria della select Alessandria;no;2210
+1,69408E+12;Esecuzione comando no per non confermare il valore Ancona della select Ancona;no;3634
+1,69408E+12;Esecuzione comando no per non confermare il valore Aosta della select Aosta;no;6943
+1,69408E+12;Esecuzione comando no per non confermare il valore L'Aquila della select L'Aquila;no;4540
+1,69408E+12;Esecuzione comando no per non confermare il valore Arezzo della select Arezzo;no;2204
+1,69408E+12;Esecuzione comando no per non confermare il valore Ascoli Piceno della select Ascoli Piceno;no;2147
+1,69408E+12;Esecuzione comando no per non confermare il valore Asti della select Asti;no;2839
+1,69408E+12;Esecuzione comando no per non confermare il valore Avellino della select Avellino;no;4129
+1,69408E+12;Esecuzione comando no per non confermare il valore Bari della select Bari;no;7137
+1,69408E+12;Esecuzione comando no per non confermare il valore Belluno della select Belluno;no;2250
+1,69408E+12;Esecuzione comando no per non confermare il valore Benevento della select Benevento;no;4867
+1,69408E+12;Esecuzione comando no per non confermare il valore Biella della select Biella;no;2159
+1,69408E+12;Esecuzione comando no per non confermare il valore Bologna della select Bologna;no;2311
+1,69408E+12;Esecuzione comando no per non confermare il valore Bolzano della select Bolzano;no;2185
+1,69408E+12;Esecuzione comando no per non confermare il valore Brescia della select Brescia;no;7479
+1,69408E+12;Esecuzione comando no per non confermare il valore Brindisi della select Brindisi;no;7044
+1,69408E+12;Esecuzione comando yes per confermare il valore Cagliari della select Cagliari;yes;6496
+1,69409E+12;Esecuzione comando yes per confermare il valore Uomo della select Uomo;yes;9179
+1,69409E+12;Inserimento del valore asia argento nel campo attorepreferito;asia argento;5420
+1,69409E+12;Fine esperimento 3 ;;201638

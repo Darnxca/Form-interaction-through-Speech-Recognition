@@ -1,0 +1,12 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694602001291;Avvio esperimento 1 ;;0
+1694602006761;Errore comando input nome francesca non capito;input nome francesca;5470
+1694602013726;Inserimento del valore francesca nel campo nome;francesca;6965
+1694602019832;Inserimento del valore ferrari nel campo cognome;ferrari;6106
+1694602025641;Inserimento del valore fra nel campo soprannome;fra;5809
+1694602034953;Inserimento del valore fra@gmail.com nel campo email;fra@gmail.com;9312
+1694602042147;Inserimento del valore 26 nel campo età;26;7194
+1694602048629;Selezione del valore brescia nella select provincia;brescia;6482
+1694602054957;Selezione del valore donna nella select genere;donna;6328
+1694602064370;Inserimento del valore carlo verdone nel campo attorepreferito;carlo verdone;9413
+1694602067734;Fine esperimento 1 ;;66443

@@ -1,0 +1,7 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694510501616;Avvio esperimento 1 ;;0
+1694510505968;Inserimento del valore mario nel campo nome;mario;4351
+1694510509744;Inserimento del valore rossi nel campo cognome;rossi;3777
+1694510514144;Selezione del valore uomo nella select genere;uomo;4400
+1694510524883;Inserimento del valore sono un ragazzo molto solare che ama gli animali e stare all'aperto mi piace molto il calcio nel campo descrizione;sono un ragazzo molto solare che ama gli animali e stare all'aperto mi piace molto il calcio;10739
+1694510528877;Fine esperimento 1 ;;27261

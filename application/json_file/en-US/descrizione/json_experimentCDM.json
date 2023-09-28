@@ -1,0 +1,36 @@
+{
+  "form": {
+    "action": "",
+    "method": "POST",
+    "name":   "experiment1",
+    "id":     "experiment1"
+  },
+  "fields": [
+    {
+      "label": "Name",
+      "type": "text",
+      "name": "name",
+      "id": "name"
+    },
+    {
+      "label": "Surname",
+      "type": "text",
+      "name": "surname",
+      "id": "surname"
+    },
+    {
+      "label": "Gender",
+      "type": "select",
+      "name": "gender",
+      "id": "gender",
+      "size": "3",
+      "options": ["Male","Female","Other"]
+    },
+    {
+      "label": "Description",
+      "type": "textarea",
+      "name": "description",
+      "id": "description"
+    }
+  ]
+}

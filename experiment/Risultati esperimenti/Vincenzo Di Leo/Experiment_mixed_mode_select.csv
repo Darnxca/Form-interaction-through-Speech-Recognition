@@ -1,0 +1,6 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694507890160;Avvio esperimento 4;;0
+1694507892900;Selezione del valore uomo nella select genere;uomo;2740
+1694507896914;Selezione del valore sardegna nella select regione;sardegna;3066
+1694507900464;Selezione del valore cagliari nella select provincia;cagliari;2668
+1694507901308;Fine esperimento 4 ;;11148

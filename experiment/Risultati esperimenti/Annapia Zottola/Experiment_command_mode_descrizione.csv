@@ -1,0 +1,8 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694600321338;Avvio esperimento 1 ;;0
+1694600326274;Inserimento del valore francesca nel campo nome;francesca;4936
+1694600331102;Inserimento del valore ferrari nel campo cognome;ferrari;4828
+1694600335974;Selezione del valore donna nella select genere;donna;4872
+1694600344914;Errore comando input descrizione mi piace molto andare in palestra e sono appassionata di cinema non capito;input descrizione mi piace molto andare in palestra e sono appassionata di cinema;8940
+1694600360479;Inserimento del valore mi piace molto andare in palestra e sono appassionata di cinema nel campo descrizione;mi piace molto andare in palestra e sono appassionata di cinema;15565
+1694600364798;Fine esperimento 1 ;;43460

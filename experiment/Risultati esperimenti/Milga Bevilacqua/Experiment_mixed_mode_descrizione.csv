@@ -1,0 +1,7 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694514377738;Avvio esperimento 4;;0
+1694514380541;Inserimento del valore sara nel campo nome;sara;2803
+1694514385184;Inserimento del valore verdi nel campo cognome;verdi;3039
+1694514391760;Selezione del valore donna nella select genere;donna;3593
+1694514402717;Inserimento del valore sono una ragazza che ama le feste mi piace la fotografia e ho un gatto di nome teo nel campo descrizione;sono una ragazza che ama le feste mi piace la fotografia e ho un gatto di nome teo;9253
+1694514405930;Fine esperimento 4 ;;28192

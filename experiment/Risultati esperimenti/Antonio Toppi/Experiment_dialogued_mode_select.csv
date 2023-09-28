@@ -1,0 +1,9 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694592341726;Avvio esperimento 2 ;;0
+1694592345064;Fine riproduzione del testo: Inserisci valore per il campo genere;;273
+1694592347125;Selezione del valore donna nella select genere;donna;2061
+1694592350403;Fine riproduzione del testo: Inserisci valore per il campo regione;;260
+1694592352323;Selezione del valore piemonte nella select regione;piemonte;1920
+1694592355673;Fine riproduzione del testo: Inserisci valore per il campo provincia;;191
+1694592357624;Selezione del valore biella nella select provincia;biella;1951
+1694592359106;Fine esperimento 2 ;;17380

@@ -1,0 +1,36 @@
+{
+  "form": {
+    "action": "",
+    "method": "POST",
+    "name":   "experiment1",
+    "id":     "experiment1"
+  },
+  "fields": [
+    {
+      "label": "Nome",
+      "type": "text",
+      "name": "nome",
+      "id": "nome"
+    },
+    {
+      "label": "Cognome",
+      "type": "text",
+      "name": "cognome",
+      "id": "cognome"
+    },
+    {
+      "label": "Genere",
+      "type": "select",
+      "name": "genere",
+      "id": "genere",
+      "size": "3",
+      "options": ["Uomo","Donna","Altro"]
+    },
+    {
+      "label": "Descrizione",
+      "type": "textarea",
+      "name": "descrizione",
+      "id": "descrizione"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1695021396581;Avvio esperimento 1 ;;0
+1695021401731;Inserimento del valore antonio nel campo nome;antonio;5150
+1695021406365;Inserimento del valore esposito nel campo cognome;esposito;4634
+1695021410933;Selezione del valore uomo nella select genere;uomo;4568
+1695021419645;Inserimento del valore sono una appassionata di musica e amo suonare la mia chitarra elettrica nel campo descrizione;sono una appassionata di musica e amo suonare la mia chitarra elettrica;8712
+1695021423297;Fine esperimento 1 ;;26716

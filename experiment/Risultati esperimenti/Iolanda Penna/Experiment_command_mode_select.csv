@@ -1,0 +1,5 @@
+Timestamp; Azione;Valore; Tempo di esecuzione (ms)
+1,69E+12;Avvio esperimento 1 ;;0
+1,69E+12;Selezione del valore sardegna nella select regione;sardegna;7751
+1,69E+12;Selezione del valore cagliari nella select provincia;cagliari;4686
+1,69E+12;Fine esperimento 1 ;;14063

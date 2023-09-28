@@ -1,0 +1,19 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694602341866;Avvio esperimento 2 ;;0
+1694602345233;Fine riproduzione del testo: Inserisci valore per il campo nome;;479
+1694602347798;Inserimento del valore francesca nel campo nome;francesca;2565
+1694602351103;Fine riproduzione del testo: Inserisci valore per il campo cognome;;188
+1694602353650;Inserimento del valore ferrari nel campo cognome;ferrari;2547
+1694602357203;Fine riproduzione del testo: Inserisci valore per il campo soprannome;;256
+1694602359885;Inserimento del valore fra nel campo soprannome;fra;2682
+1694602363162;Fine riproduzione del testo: Inserisci valore per il campo email;;240
+1694602369236;Inserimento del valore fra@gmail.com nel campo email;fra@gmail.com;6074
+1694602372343;Fine riproduzione del testo: Inserisci valore per il campo età;;311
+1694602375202;Inserimento del valore 26 nel campo età;26;2859
+1694602379215;Fine riproduzione del testo: Inserisci valore per il campo provincia;;867
+1694602381991;Selezione del valore brescia nella select provincia;brescia;2775
+1694602385265;Fine riproduzione del testo: Inserisci valore per il campo genere;;217
+1694602387709;Selezione del valore donna nella select genere;donna;2444
+1694602391516;Fine riproduzione del testo: Inserisci valore per il campo attorepreferito;;149
+1694602394049;Inserimento del valore carlo verdone nel campo attorepreferito;carlo verdone;2533
+1694602397343;Fine esperimento 2 ;;55477

@@ -1,0 +1,11 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694598215824;Avvio esperimento 1 ;;0
+1694598221032;Inserimento del valore francesca nel campo nome;francesca;5208
+1694598227078;Inserimento del valore ferrari nel campo cognome;ferrari;6046
+1694598232214;Inserimento del valore fra nel campo soprannome;fra;5135
+1694598238408;Inserimento del valore fra@gmail.com nel campo email;fra@gmail.com;6195
+1694598243436;Inserimento del valore 26 nel campo età;26;5028
+1694598248332;Selezione del valore brescia nella select provincia;brescia;4896
+1694598253431;Selezione del valore donna nella select genere;donna;5099
+1694598259460;Inserimento del valore carlo verdone nel campo attorepreferito;carlo verdone;6029
+1694598261804;Fine esperimento 1 ;;45979

@@ -1,0 +1,56 @@
+{
+  "form": {
+    "action": "/submit",
+    "method": "POST",
+    "name":   "experiment3",
+    "id":     "experiment3"
+  },
+  "fields": [
+    {
+      "label": "Nome",
+      "type": "text",
+      "name": "nome",
+      "id": "nome",
+      "button": {
+        "type": "button",
+        "name": "nomeSpeech",
+        "id": "nomeSpeech",
+        "icon": "fa fa-microphone",
+        "action": "nomeSpeech"
+      }
+    },
+    {
+      "label": "Genere",
+      "type": "select",
+      "name": "genere",
+      "id": "genere",
+      "size": "3",
+      "options": ["Uomo","Donna","Altro"],
+      "button": {
+        "type": "button",
+        "name": "genereSpeech",
+        "id": "genereSpeech",
+        "icon": "fa fa-microphone",
+        "action": "genereSpeech"
+      }
+    },
+    {
+      "label": "Regione",
+      "type": "select",
+      "name": "regione",
+      "id": "regione",
+      "size": "3",
+      "options": ["Abruzzo","Basilicata","Calabria","Campania","Emilia Romagna","Friuli Venezia Giulia",
+                  "Lazio", "Liguria", "Lombardia", "Marche", "Molise", "Piemonte", "Puglia",
+                "Sardegna","Sicilia","Toscana","Trentino alto Adige","Umbria","Valle d'Aosta", "Veneto"],
+      "button": {
+        "type": "button",
+        "name": "regioneSpeech",
+        "id": "regioneSpeech",
+        "icon": "fa fa-microphone",
+        "action": "regioneSpeech"
+      }
+    }
+  ]
+  
+}

@@ -1,0 +1,19 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694591000049;Avvio esperimento 2 ;;0
+1694591003339;Fine riproduzione del testo: Inserisci valore per il campo nome;;402
+1694591005470;Inserimento del valore sara nel campo nome;sara;2131
+1694591008659;Fine riproduzione del testo: Inserisci valore per il campo cognome;;74
+1694591010917;Inserimento del valore verdi nel campo cognome;verdi;2258
+1694591014637;Fine riproduzione del testo: Inserisci valore per il campo soprannome;;435
+1694591016745;Inserimento del valore saretta nel campo soprannome;saretta;2107
+1694591020274;Fine riproduzione del testo: Inserisci valore per il campo email;;492
+1694591024528;Inserimento del valore saretta@gmail.com nel campo email;saretta@gmail.com;4254
+1694591027633;Fine riproduzione del testo: Inserisci valore per il campo età;;311
+1694591029818;Inserimento del valore 18 nel campo età;18;2185
+1694591033194;Fine riproduzione del testo: Inserisci valore per il campo provincia;;218
+1694591035237;Selezione del valore biella nella select provincia;biella;2043
+1694591038555;Fine riproduzione del testo: Inserisci valore per il campo genere;;285
+1694591040587;Selezione del valore donna nella select genere;donna;2032
+1694591044491;Fine riproduzione del testo: Inserisci valore per il campo attorepreferito;;256
+1694591047258;Inserimento del valore luca argentero nel campo attorepreferito;luca argentero;2767
+1694591050136;Fine esperimento 2 ;;50086

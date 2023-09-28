@@ -1,0 +1,9 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694517222281;Avvio esperimento 1 ;;0
+1694517228138;Inserimento del valore sara nel campo nome;sara;5857
+1694517233030;Inserimento del valore verdi nel campo cognome;verdi;4892
+1694517238716;Selezione del valore donna nella select genere;donna;5686
+1694517242732;Errore comando input descrizione non capito;input descrizione;4016
+1694517250311;Errore comando valore sono una ragazza che ama le feste mi piace la fotografia è un gatto di nome teo non capito;valore sono una ragazza che ama le feste mi piace la fotografia è un gatto di nome teo;7579
+1694517266409;Inserimento del valore solo una ragazza che ama le feste mi piace la fotografia e un gatto di nome teo nel campo descrizione;solo una ragazza che ama le feste mi piace la fotografia e un gatto di nome teo;16098
+1694517269600;Fine esperimento 1 ;;47319

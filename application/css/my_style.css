@@ -1,0 +1,156 @@
+.form-group {
+    margin-bottom: 15px;
+}
+
+.input-group {
+    display: flex;
+}
+
+.form-control {
+    color: black;
+}
+
+.form-control:hover {
+    color: black;
+}
+
+#mydiv {
+    margin-top: 50px;
+}
+
+.grid {
+    padding: 20px;
+}
+
+body {
+    background-color: rgb(2, 3, 87); /* Colore di sfondo predefinito per il tema chiaro */
+    color: rgb(255, 255, 255); /* Colore del testo predefinito per il tema chiaro */
+}
+
+
+  
+
+/* Regole di stile per ripristinare lo stile di Bootstrap "form-control" */
+.select2-container--bootstrap4 .select2-selection--single .select2-selection__rendered {
+    display: block !important; 
+    width: 100% !important;
+    height: calc(1.5em + 0.75rem + 2px) !important;
+    padding: 0.375rem 0.75rem !important;
+    font-size: 1rem !important;
+    font-weight: 400 !important;
+    line-height: 1.5 !important;
+    color: #000000 !important;
+    background-color: #fff !important;
+    background-clip: padding-box !important;
+    border: 1px solid #ced4da !important;
+    border-radius: 0.25rem !important;
+    transition: border-color .15s ease-in-out,box-shadow .15s !important
+  }
+
+  .select2-container--bootstrap4 .select2-results__option {
+    padding: 0.375rem 0.75rem !important;
+    color: black !important;
+    }
+/*
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: black; 
+        color: white; 
+    }
+}
+*/
+
+.popup {
+position: fixed;
+top: 55%;
+left: 50%;
+width: 30%;
+transform: translate(-50%, -50%);
+padding: 10px;
+background-color: whitesmoke;
+border: 3px solid #189bff;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+z-index: 9999;
+color: white;
+font-size: 20px;
+text-transform: capitalize;
+text-align: center;
+border-radius: 10px;
+}
+
+.popup p{
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: black;
+  border: 2px solid #6c757d;
+  border-radius: 25px;
+}
+
+.popup p:hover{
+  border: 2px solid #189bff;
+}
+
+.popup h4{
+  color: black;
+  margin-bottom: 20px;
+  text-align: initial;
+}
+
+#close-button:hover {
+    background-color: #0f6eb3;
+}
+
+#close-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #189bff;
+    border-radius: 5px;
+    padding: 3px 8px;
+    transition: background-color 0.3s;
+    font-size: 14px;
+}
+
+/* Stile per l'elemento fisso in primo piano */
+#mydivSpeech {
+    position: sticky;
+    top: 0;
+    z-index: 9999; /* Imposta un valore di z-index elevato per mantenere l'elemento sopra gli altri */
+}
+
+#mydivSpeech.sticky {
+    background-color: #0a4671; /* Nuovo colore di sfondo */
+    border-radius: 10px;
+}
+
+
+/* Stile generale della box */
+.tutorial-box {
+    color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: auto;
+  }
+  
+  /* Stile degli elementi all'interno della box */
+  .tutorial-box h4 {
+    font-size: 24px;
+  }
+  
+  .tutorial-box p {
+    font-size: 16px;
+    margin-bottom: 0px;
+  }
+  
+  .tutorial-box ol {
+    list-style: decimal;
+    font-size: 16px;
+  }
+  
+  
+
+
+
+

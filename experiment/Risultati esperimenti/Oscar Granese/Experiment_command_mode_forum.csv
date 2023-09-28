@@ -1,0 +1,12 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1695026685686;Avvio esperimento 1 ;;0
+1695026690528;Inserimento del valore antonio nel campo nome;antonio;4842
+1695026695718;Inserimento del valore esposito nel campo cognome;esposito;5190
+1695026700524;Inserimento del valore pony nel campo soprannome;pony;4806
+1695026706982;Inserimento del valore tony nel campo soprannome;tony;6458
+1695026713768;Inserimento del valore tony@gmail.com nel campo email;tony@gmail.com;6786
+1695026718827;Inserimento del valore 63 nel campo età;63;5059
+1695026723169;Selezione del valore bologna nella select provincia;bologna;4342
+1695026727571;Selezione del valore uomo nella select genere;uomo;4402
+1695026732454;Inserimento del valore monica bellucci nel campo attorepreferito;monica bellucci;4882
+1695026734852;Fine esperimento 1 ;;49166

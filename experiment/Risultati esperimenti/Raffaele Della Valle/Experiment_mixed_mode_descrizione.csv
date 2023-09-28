@@ -1,0 +1,7 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694596345747;Avvio esperimento 4;;0
+1694596348696;Inserimento del valore francesca nel campo nome;francesca;2948
+1694596355207;Inserimento del valore ferrari nel campo cognome;ferrari;2769
+1694596360074;Selezione del valore donna nella select genere;donna;2808
+1694596368752;Inserimento del valore mi piace molto andare in palestra e sono appassionata di cinema nel campo descrizione;mi piace molto andare in palestra e sono appassionata di cinema;6166
+1694596371743;Fine esperimento 4 ;;25996

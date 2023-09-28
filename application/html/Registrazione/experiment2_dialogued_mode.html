@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Experiment : Dialogued mode</title>
+  <meta charset="utf-8">
+  <!-- Collegamento agli stili di Bootstrap -->
+  <link href="../../css/bootstrap.min.css" rel="stylesheet" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
+  <link href="../../css/my_style.css" rel="stylesheet" />
+  <link href="../../css/microphone_button.css" rel="stylesheet" />
+  <script src="../../js/lib/artyom.window.min.js"></script>
+  <script src="../../js/utils/commandiRegex.js"></script>
+  <script src="../../js/utils/traduzioneTesto.js"></script>
+  <script src="../../js/utils/executionTime.js"></script>
+  <script src="../../js/utils/mySelect.js"></script>
+  <script src="../../js/utils/similarElement.js"></script>
+  <script src="../../js/utils/operazioniInComune.js"></script>
+  <script src="../../js/utils/wordToNumber.js"></script>
+</head>
+<!-- After pressing a button, the vocal assistant asks participants for the value for each SELECT. User will reply with the value -->
+<body>
+  <div id="popup" class="popup" style="display: none;"></div>
+  <div class="container">
+    <div class="row justify-content-center" id="mydiv1">
+      <div class="col-md-12">
+        <h1 style="text-align: center">Experiment 2: dialogued mode</h1>
+      </div>
+    </div>
+    <!-- icona microfono per avvisare se si può parlare o no-->
+    <div class="row justify-content-center" id="mydivSpeech">
+      <div class="col-md-12" style="text-align: center;">
+        <button id="speech-activate" class="btn-mic type2">
+        <div id="div-activate" class=""></div>
+        <i class="fa fa-microphone" aria-hidden="true"></i>
+      </div>
+      <div class="col-md-12" style="text-align: center;">
+        <h5 id="listening">I'm not listening!</h5>
+      </div>
+    </div>
+    <div class="row justify-content-left" id="mydiv2">
+      <div class="col-md-12">
+        <button class="btn btn-primary" onclick="startDialog()">Start interaction mode</button>
+        <button class="btn btn-primary" onclick="stopExperiment()">Stop Task</button>
+        <button class="btn btn-primary" onclick="showComand()">Show Command</button>
+      </div>
+    </div>
+    <div class="row justify-content-center" id="mydiv3">
+      <div class="col-md-12">
+        <div id="form-container"></div>
+        <button  type="submit" name="registrazione" class="btn btn-primary justify-content-left" id="submitButton">Confirm</button>
+      </div>
+    </div>
+  </div>
+  <script src="../../js/lib/jquery.min.js"></script>
+  <!-- Collegamento agli script di Bootstrap -->
+  <script src="../../js/lib/bootstrap.min.js"></script>
+  <script src="../../js/makeForm.js"></script>
+  <script>
+    var language = localStorage.getItem('selectedLanguage');
+    // Chiamata alla funzione per leggere il file JSON e creare il form
+    leggiJSON("../../json_file/"+language+"/registrazione/json_experimentCDM.json",function(response) {
+      makeForm(response);
+    });
+
+    $(document).ready(function() {
+      // Crea un elemento script per il primo file JavaScript
+      var script1 = document.createElement('script');
+      script1.src = '../../js/speech_file/speech_setting.js';
+
+      // Crea un elemento script per il secondo file JavaScript
+      var script2 = document.createElement('script');
+      script2.src = '../../js/speech_file/speech_experiment_dialogued_mode.js';
+
+
+      var script3 = document.createElement('script');
+      script3.src="../../js/speech_file/popUpSpeech.js";
+
+      // Aggiungi gli elementi script alla fine del documento
+      $('body').append(script1);
+      $('body').append(script2);
+      $('body').append(script3);
+    });
+  </script>
+</body>
+</html>

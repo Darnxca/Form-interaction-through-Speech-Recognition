@@ -1,0 +1,62 @@
+{
+  "form": {
+    "action": "/submit",
+    "method": "POST",
+    "name":   "experiment3",
+    "id":     "experiment3"
+  },
+  "fields": [
+    {
+      "label": "Nome",
+      "type": "text",
+      "name": "nome",
+      "id": "nome",
+      "button": {
+        "type": "button",
+        "name": "nomeSpeech",
+        "id": "nomeSpeech",
+        "icon": "fa fa-microphone",
+        "action": "nomeSpeech"
+      }
+    },
+    {
+      "label": "Cognome",
+      "type": "text",
+      "name": "cognome",
+      "id": "cognome",
+      "button": {
+        "type": "button",
+        "name": "cognomeSpeech",
+        "id": "cognomeSpeech",
+        "icon": "fa fa-microphone",
+        "action": "cognomeSpeech"
+      }
+    },
+    {
+      "label": "Email",
+      "type": "email",
+      "name": "email",
+      "id": "email",
+      "button": {
+        "type": "button",
+        "name": "emailSpeech",
+        "id": "emailSpeech",
+        "icon": "fa fa-microphone",
+        "action": "emailSpeech"
+      }
+    },
+    {
+      "label": "Password",
+      "type": "text",
+      "name": "password",
+      "id": "password",
+      "button": {
+        "type": "button",
+        "name": "passwordSpeech",
+        "id": "passwordSpeech",
+        "icon": "fa fa-microphone",
+        "action": "passwordSpeech"
+      }
+    }
+  ]
+}

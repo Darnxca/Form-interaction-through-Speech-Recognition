@@ -1,0 +1,12 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1695028432245;Avvio esperimento 2 ;;0
+1695028435272;Fine riproduzione del testo: Inserisci valore per il campo nome;;140
+1695028436942;Inserimento del valore antonio nel campo nome;antonio;1670
+1695028440282;Fine riproduzione del testo: Inserisci valore per il campo cognome;;229
+1695028442446;Inserimento del valore esposito nel campo cognome;esposito;2164
+1695028445772;Fine riproduzione del testo: Inserisci valore per il campo genere;;294
+1695028450961;Fine riproduzione del testo: Inserisci valore per il campo genere;;2134
+1695028453085;Selezione del valore uomo nella select genere;uomo;2124
+1695028456662;Fine riproduzione del testo: Inserisci valore per il campo descrizione;;245
+1695028462024;Inserimento del valore sono un appassionato di musica e amo suonare la mia chitarra elettrica nel campo descrizione;sono un appassionato di musica e amo suonare la mia chitarra elettrica;5361
+1695028465048;Fine esperimento 2 ;;32803

@@ -1,0 +1,6 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1695024238151;Avvio esperimento 4;;0
+1695024241222;Selezione del valore uomo nella select genere;uomo;3071
+1695024246092;Selezione del valore emilia romagna nella select regione;emilia romagna;3824
+1695024250453;Selezione del valore bologna nella select provincia;bologna;2677
+1695024251563;Fine esperimento 4 ;;13412

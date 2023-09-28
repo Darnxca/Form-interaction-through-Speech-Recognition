@@ -1,0 +1,26 @@
+.flag-checkbox {
+    display: none;
+  }
+  .flag-image {
+    width: 50px;
+    height: 40px;
+    cursor: pointer;
+    transition: transform 0.2s;
+    padding: 5px;
+  }
+  .flag-image:hover,
+  .flag-image.selected {
+    transform: scale(1.2);
+  }
+
+  .flag-checkbox-label {
+    display: flex;
+    align-items: center;
+      justify-content: center;
+    padding: 10px;
+  }
+
+  h2 {
+    text-align: center;
+    margin-top: 0;
+  }

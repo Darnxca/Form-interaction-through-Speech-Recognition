@@ -1,0 +1,54 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694507135264;Avvio esperimento 3 ;;0
+1694507138737;Inserimento del valore mario nel campo nome;mario;3472
+1694507146847;Inserimento del valore rossi nel campo cognome;rossi;3303
+1694507153373;Inserimento del valore mars nel campo soprannome;mars;3506
+1694507161419;Inserimento del valore trentuno nel campo età;trentuno;3239
+1694507174961;Inserimento del valore 31 nel campo età;31;3280
+1694507187471;Inserimento del valore mariorossi@gmail.com nel campo email;mariorossi@gmail.com;5878
+1694507194151;Fine riproduzione del testo: Le opzioni per la lista provincia sono;;3616
+1694507196734;Fine riproduzione del testo: Vuoi selezionare Agrigento ?;;3470
+1694507198775;Esecuzione comando no per non confermare il valore Agrigento della select Agrigento;no;2041
+1694507201209;Fine riproduzione del testo: Vuoi selezionare Alessandria ?;;263
+1694507203748;Esecuzione comando no per non confermare il valore Alessandria della select Alessandria;no;2539
+1694507205989;Fine riproduzione del testo: Vuoi selezionare Ancona ?;;289
+1694507208195;Esecuzione comando no per non confermare il valore Ancona della select Ancona;no;2206
+1694507210240;Fine riproduzione del testo: Vuoi selezionare Aosta ?;;164
+1694507212426;Esecuzione comando no per non confermare il valore Aosta della select Aosta;no;2186
+1694507214821;Fine riproduzione del testo: Vuoi selezionare L'Aquila ?;;428
+1694507216882;Esecuzione comando no per non confermare il valore L'Aquila della select L'Aquila;no;2061
+1694507219101;Fine riproduzione del testo: Vuoi selezionare Arezzo ?;;243
+1694507221131;Esecuzione comando no per non confermare il valore Arezzo della select Arezzo;no;2030
+1694507223924;Fine riproduzione del testo: Vuoi selezionare Ascoli Piceno ?;;407
+1694507225977;Esecuzione comando no per non confermare il valore Ascoli Piceno della select Ascoli Piceno;no;2053
+1694507228174;Fine riproduzione del testo: Vuoi selezionare Asti ?;;364
+1694507230253;Esecuzione comando no per non confermare il valore Asti della select Asti;no;2079
+1694507232631;Fine riproduzione del testo: Vuoi selezionare Avellino ?;;365
+1694507237576;Esecuzione comando no per non confermare il valore Avellino della select Avellino;no;4945
+1694507239654;Fine riproduzione del testo: Vuoi selezionare Bari ?;;280
+1694507241669;Esecuzione comando no per non confermare il valore Bari della select Bari;no;2015
+1694507244874;Fine riproduzione del testo: Vuoi selezionare Barletta Andria Trani ?;;252
+1694507246957;Esecuzione comando no per non confermare il valore Barletta Andria Trani della select Barletta Andria Trani;no;2083
+1694507249304;Fine riproduzione del testo: Vuoi selezionare Belluno ?;;374
+1694507251764;Esecuzione comando no per non confermare il valore Belluno della select Belluno;no;2460
+1694507254164;Fine riproduzione del testo: Vuoi selezionare Benevento ?;;263
+1694507256429;Esecuzione comando no per non confermare il valore Benevento della select Benevento;no;2265
+1694507258674;Fine riproduzione del testo: Vuoi selezionare Bergamo ?;;229
+1694507260957;Esecuzione comando no per non confermare il valore Bergamo della select Bergamo;no;2283
+1694507263138;Fine riproduzione del testo: Vuoi selezionare Biella ?;;301
+1694507265491;Esecuzione comando no per non confermare il valore Biella della select Biella;no;2353
+1694507267698;Fine riproduzione del testo: Vuoi selezionare Bologna ?;;211
+1694507269983;Esecuzione comando no per non confermare il valore Bologna della select Bologna;no;2285
+1694507272428;Fine riproduzione del testo: Vuoi selezionare Bolzano ?;;385
+1694507274511;Esecuzione comando no per non confermare il valore Bolzano della select Bolzano;no;2083
+1694507276748;Fine riproduzione del testo: Vuoi selezionare Brescia ?;;279
+1694507278788;Esecuzione comando no per non confermare il valore Brescia della select Brescia;no;2040
+1694507281195;Fine riproduzione del testo: Vuoi selezionare Brindisi ?;;373
+1694507283345;Esecuzione comando no per non confermare il valore Brindisi della select Brindisi;no;2150
+1694507285558;Fine riproduzione del testo: Vuoi selezionare Cagliari ?;;233
+1694507287597;Esecuzione comando yes per confermare il valore Cagliari della select Cagliari;yes;2039
+1694507295197;Fine riproduzione del testo: Le opzioni per la lista genere sono;;4603
+1694507297217;Fine riproduzione del testo: Vuoi selezionare Uomo ?;;3184
+1694507299505;Esecuzione comando yes per confermare il valore Uomo della select Uomo;yes;2288
+1694507306647;Inserimento del valore asia argento nel campo attorepreferito;asia argento;4048
+1694507315109;Fine esperimento 3 ;;179845

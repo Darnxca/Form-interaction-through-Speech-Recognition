@@ -1,0 +1,7 @@
+Timestamp; Azione;Valore; Tempo di esecuzione (ms)
+1,69409E+12;Avvio esperimento 3 ;;0
+1,69409E+12;Inserimento del valore mario nel campo nome;mario;3468
+1,69409E+12;Inserimento del valore rossi nel campo cognome;rossi;3231
+1,69409E+12;Inserimento del valore mariorossi@gmail.com nel campo email;mariorossi@gmail.com;6786
+1,69409E+12;Inserimento del valore a4l9l2 nel campo password;a4l9l2;5791
+1,69409E+12;Fine esperimento 3 ;;26336

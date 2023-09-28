@@ -1,0 +1,7 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694600015225;Avvio esperimento 4;;0
+1694600018418;Inserimento del valore francesca nel campo nome;francesca;3193
+1694600022013;Inserimento del valore ferrari nel campo cognome;ferrari;2774
+1694600027822;Inserimento del valore fra@gmail.com nel campo email;fra@gmail.com;4399
+1694600034611;Inserimento del valore iseif7u2 nel campo password;iseif7u2;5201
+1694600045001;Fine esperimento 4 ;;29776

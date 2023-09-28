@@ -1,0 +1,113 @@
+{
+  "form": {
+    "action": "/submit",
+    "method": "POST",
+    "name":   "experiment1",
+    "id":     "experiment1"
+  },
+  "fields": [
+    {
+      "label": "Name",
+      "type": "text",
+      "name": "name",
+      "id": "name",
+      "button": {
+        "type": "button",
+        "name": "nameSpeech",
+        "id": "nameSpeech",
+        "icon": "fa fa-microphone",
+        "data-action": "nameSpeech"
+      }
+    },
+    {
+      "label": "Surname",
+      "type": "text",
+      "name": "surname",
+      "id": "surname",
+      "button": {
+        "type": "button",
+        "name": "surnameSpeech",
+        "id": "surnameSpeech",
+        "icon": "fa fa-microphone",
+        "data-action": "surnameSpeech"
+      }
+    },
+    {
+      "label": "Email",
+      "type": "email",
+      "name": "email",
+      "id": "email",
+      "button": {
+        "type": "button",
+        "name": "emailSpeech",
+        "id": "emailSpeech",
+        "icon": "fa fa-microphone",
+        "data-action": "emailSpeech"
+      }
+    },
+    {
+      "label": "Age",
+      "type": "number",
+      "name": "age",
+      "id": "age",
+      "button": {
+        "type": "button",
+        "name": "ageSpeech",
+        "id": "ageSpeech",
+        "icon": "fa fa-microphone",
+        "data-action": "ageSpeech"
+      }
+    },
+    {
+      "label": "Birthplace",
+      "type": "select",
+      "name": "birthplace",
+      "id": "birthplace",
+      "size": "5",
+      "options": ["Londra","Birmingham","Manchester","Liverpool","Leeds","Newcastle upon Tyne","Sheffield",
+                  "Bristol","Nottingham","Southampton","Coventry","Leicester","Stoke-on-Trent","Plymouth",
+                  "Reading","Bradford","Kingston upon Hull","Wolverhampton","Derby","Southampton","Portsmouth",
+                  "Northampton","Norwich","Preston","Oxford"
+      ],
+      "button": {
+        "type": "button",
+        "name": "birthplaceSpeech",
+        "id": "birthplaceSpeech",
+        "icon": "fa fa-microphone",
+        "data-action": "birthplaceSpeech"
+      }
+    },
+    {
+      "label": "City of residence",
+      "type": "select",
+      "name": "residence",
+      "id": "residence",
+      "size": "5",
+      "options": ["Londra","Birmingham","Manchester","Liverpool","Leeds","Newcastle upon Tyne","Sheffield",
+                  "Bristol","Nottingham","Southampton","Coventry","Leicester","Stoke-on-Trent","Plymouth",
+                  "Reading","Bradford","Kingston upon Hull","Wolverhampton","Derby","Southampton","Portsmouth",
+                  "Northampton","Norwich","Preston","Oxford"
+      ],
+      "button": {
+        "type": "button",
+        "name": "residenceSpeech",
+        "id": "residenceSpeech",
+        "icon": "fa fa-microphone",
+        "data-action": "residenceSpeech"
+      }
+    },
+    {
+      "label": "Insert a comment",
+      "type": "textarea",
+      "name": "comment",
+      "id": "comment",
+      "button": {
+        "type": "button",
+        "name": "commentSpeech",
+        "id": "commentSpeech",
+        "icon":"fa fa-microphone",
+        "data-action": "textAreaSpeech"
+      }
+    }
+  ]
+}

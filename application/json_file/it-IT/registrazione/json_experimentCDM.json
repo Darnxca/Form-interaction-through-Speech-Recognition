@@ -1,0 +1,34 @@
+{
+  "form": {
+    "action": "",
+    "method": "POST",
+    "name":   "experiment1",
+    "id":     "experiment1"
+  },
+  "fields": [
+    {
+      "label": "Nome",
+      "type": "text",
+      "name": "nome",
+      "id": "nome"
+    },
+    {
+      "label": "Cognome",
+      "type": "text",
+      "name": "cognome",
+      "id": "cognome"
+    },
+    {
+      "label": "Email",
+      "type": "email",
+      "name": "email",
+      "id": "email"
+    },
+    {
+      "label": "Password",
+      "type": "text",
+      "name": "password",
+      "id": "password"
+    }
+  ]
+}

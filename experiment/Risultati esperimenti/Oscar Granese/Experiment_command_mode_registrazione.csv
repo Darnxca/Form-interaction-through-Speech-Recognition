@@ -1,0 +1,10 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1695026737404;Avvio esperimento 1 ;;0
+1695026741777;Inserimento del valore antonio nel campo nome;antonio;4373
+1695026746015;Inserimento del valore esposito nel campo cognome;esposito;4238
+1695026750919;Errore comando input email tony@gmail.com non capito;input email tony@gmail.com;4904
+1695026756956;Errore comando input email valore@gmail.com non capito;input email valore@gmail.com;6037
+1695026764106;Inserimento del valore tony@gmail.com nel campo email;tony@gmail.com;7150
+1695026772215;Inserimento del valore n7i684 nel campo password;n7i684;8109
+1695026782582;Inserimento del valore n7i6o4 nel campo password;n7i6o4;10367
+1695026785195;Fine esperimento 1 ;;47791

@@ -1,0 +1,19 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1695028340041;Avvio esperimento 2 ;;1
+1695028343334;Fine riproduzione del testo: Inserisci valore per il campo nome;;394
+1695028345368;Inserimento del valore antonio nel campo nome;antonio;2034
+1695028348624;Fine riproduzione del testo: Inserisci valore per il campo cognome;;142
+1695028350645;Inserimento del valore esposito nel campo cognome;esposito;2021
+1695028354453;Fine riproduzione del testo: Inserisci valore per il campo soprannome;;521
+1695028356378;Inserimento del valore tony nel campo soprannome;tony;1925
+1695028359921;Fine riproduzione del testo: Inserisci valore per il campo email;;496
+1695028364077;Inserimento del valore torni@gmail.com nel campo email;torni@gmail.com;4156
+1695028367061;Fine riproduzione del testo: Inserisci valore per il campo età;;191
+1695028369444;Inserimento del valore 63 nel campo età;63;2383
+1695028372751;Fine riproduzione del testo: Inserisci valore per il campo provincia;;154
+1695028374622;Selezione del valore bologna nella select provincia;bologna;1871
+1695028377949;Fine riproduzione del testo: Inserisci valore per il campo genere;;278
+1695028379977;Selezione del valore uomo nella select genere;uomo;2028
+1695028383781;Fine riproduzione del testo: Inserisci valore per il campo attorepreferito;;146
+1695028386224;Inserimento del valore monica bellucci nel campo attorepreferito;monica bellucci;2443
+1695028390820;Fine esperimento 2 ;;50780

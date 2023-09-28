@@ -1,0 +1,6 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694503897625;Avvio esperimento 1 ;;0
+1694503903498;Errore comando input genere uomo non capito;input genere uomo;5873
+1694503917115;Selezione del valore cagliari nella select provincia;cagliari;13617
+1694503922691;Selezione del valore sardegna nella select regione;sardegna;5576
+1694503925020;Fine esperimento 1 ;;27395

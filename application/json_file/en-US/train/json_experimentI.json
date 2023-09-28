@@ -1,0 +1,56 @@
+{
+  "form": {
+    "action": "/submit",
+    "method": "POST",
+    "name":   "experiment3",
+    "id":     "experiment3"
+  },
+  "fields": [
+    {
+      "label": "Name",
+      "type": "text",
+      "name": "name",
+      "id": "name",
+      "button": {
+        "type": "button",
+        "name": "bameSpeech",
+        "id": "nameSpeech",
+        "icon": "fa fa-microphone",
+        "action": "nameSpeech"
+      }
+    },
+    {
+      "label": "Gender",
+      "type": "select",
+      "name": "gender",
+      "id": "gender",
+      "size": "3",
+      "options": ["Uomo","Donna","Altro"],
+      "button": {
+        "type": "button",
+        "name": "genderSpeech",
+        "id": "genderSpeech",
+        "icon": "fa fa-microphone",
+        "action": "genderSpeech"
+      }
+    },
+    {
+      "label": "Country",
+      "type": "select",
+      "name": "country",
+      "id": "country",
+      "size": "3",
+      "options": ["Abruzzo","Basilicata","Calabria","Campania","Emilia Romagna","Friuli Venezia Giulia",
+                  "Lazio", "Liguria", "Lombardia", "Marche", "Molise", "Piemonte", "Puglia",
+                "Sardegna","Sicilia","Toscana","Trentino alto Adige","Umbria","Valle d'Aosta", "Veneto"],
+      "button": {
+        "type": "button",
+        "name": "countrySpeech",
+        "id": "countrySpeech",
+        "icon": "fa fa-microphone",
+        "action": "countrySpeech"
+      }
+    }
+  ]
+  
+}

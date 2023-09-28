@@ -1,0 +1,11 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694505827768;Avvio esperimento 2 ;;0
+1694505831217;Fine riproduzione del testo: Inserisci valore per il campo nome;;562
+1694505832968;Inserimento del valore mario nel campo nome;mario;1751
+1694505836373;Fine riproduzione del testo: Inserisci valore per il campo cognome;;294
+1694505838010;Inserimento del valore rossi nel campo cognome;rossi;1637
+1694505841484;Fine riproduzione del testo: Inserisci valore per il campo genere;;420
+1694505848028;Selezione del valore: uomo nella select genere;uomo;6544
+1694505851606;Fine riproduzione del testo: Inserisci valore per il campo descrizione;;241
+1694505859723;Inserimento del valore sono un ragazzo molto solare che ama gli animali e stare all'aperto mi piace molto il calcio nel campo descrizione;sono un ragazzo molto solare che ama gli animali e stare all'aperto mi piace molto il calcio;8117
+1694505864288;Fine esperimento 2 ;;36520

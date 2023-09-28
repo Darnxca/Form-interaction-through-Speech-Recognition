@@ -1,0 +1,12 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694600415682;Avvio esperimento 1 ;;0
+1694600420545;Inserimento del valore francesca nel campo nome;francesca;4863
+1694600425141;Inserimento del valore ferrari nel campo cognome;ferrari;4596
+1694600430477;Inserimento del valore fra nel campo soprannome;fra;5336
+1694600437572;Errore comando imbuti-mail valore fra chiocciola gmail.com non capito;imbuti-mail valore fra chiocciola gmail.com;7095
+1694600445245;Inserimento del valore fra@gmail.com nel campo email;fra@gmail.com;7673
+1694600450938;Inserimento del valore 26 nel campo età;26;5693
+1694600455741;Selezione del valore brescia nella select provincia;brescia;4803
+1694600460443;Selezione del valore donna nella select genere;donna;4702
+1694600466144;Inserimento del valore carlo verdone nel campo attorepreferito;carlo verdone;5701
+1694600468130;Fine esperimento 1 ;;52448

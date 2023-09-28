@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title id="2">Home page</title>
+    <meta charset="utf-8">
+    <!-- Collegamento agli stili di Bootstrap -->
+    <link href="../../css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+    <link href="../../css/select2.min.css" rel="stylesheet" />
+    <link href="../../css/my_style.css" rel="stylesheet"/>
+    <link href="../../css/my_flag_style.css" rel="stylesheet"/>
+    <link href="../../css/flag-icon.min.css" rel="stylesheet">
+</head>
+<body>
+    <div style="display: flex; justify-content: center;">
+        <h2 id="lingua">Seleziona la lingua:</h2>
+        <label>
+            <input type="checkbox" class="flag-checkbox" value="en-US" />
+            <img class="flag-image" src="../../images/gb.svg" alt="Inglese" />
+        </label>
+        <label>
+            <input type="checkbox" class="flag-checkbox" value="it-IT" />
+            <img class="flag-image" src="../../images/it.svg" alt="Italiano" />
+        </label>
+    </div>   
+    <div class="container">
+        <div class="row justify-content-center" id="mydiv">
+            <div class="col-md-12">
+                <h1 style="text-align: center">Collegamenti rapidi</h1>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-6 grid">
+                        <a href="experiment1_command_mode.html" class="btn btn-primary d-flex justify-content-center">Command mode</a>
+                    </div>
+                    <div class="col-md-6 grid">
+                        <a href="experiment2_dialogued_mode.html" class="btn btn-primary d-flex justify-content-center">Dialogued mode</a>
+                    </div>
+                    <div class="col-md-6 grid">
+                        <a href="experiment3_interacted_mode.html" class="btn btn-primary d-flex justify-content-center">Interacted mode</a>
+                    </div>
+                    <div class="col-md-6 grid">
+                        <a href="experiment4_mixed_mode.html" class="btn btn-primary d-flex justify-content-center">Mixed mode</a>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <script src="../../js/lib/jquery.min.js"></script>
+    <!-- Collegamento agli script di Bootstrap -->
+    <script src="../../js/lib/bootstrap.min.js"></script>
+    <script src="../../js/utils/lingua.js"></script>
+</body>
+</html>

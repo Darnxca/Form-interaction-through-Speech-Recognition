@@ -1,0 +1,8 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694510460938;Avvio esperimento 1 ;;0
+1694510465131;Inserimento del valore mario nel campo nome;mario;4193
+1694510469008;Inserimento del valore rossi nel campo cognome;rossi;3877
+1694510474988;Inserimento del valore emariorossi@gmail.com nel campo email;emariorossi@gmail.com;5980
+1694510482793;Errore comando input password a4 no non capito;input password a4 no;7805
+1694510491088;Inserimento del valore a4l9l2 nel campo password;a4l9l2;8295
+1694510493596;Fine esperimento 1 ;;32659

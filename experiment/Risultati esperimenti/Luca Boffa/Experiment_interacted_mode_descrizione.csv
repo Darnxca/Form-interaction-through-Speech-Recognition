@@ -1,0 +1,9 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1695024059829;Avvio esperimento 3 ;;0
+1695024062904;Inserimento del valore antonio nel campo nome;antonio;3074
+1695024068410;Inserimento del valore esposito nel campo cognome;esposito;3540
+1695024074447;Fine riproduzione del testo: Le opzioni per la lista genere sono;;3033
+1695024077020;Fine riproduzione del testo: Vuoi selezionare Uomo ?;;3750
+1695024079318;Esecuzione comando yes per confermare il valore Uomo della select Uomo;yes;2298
+1695024086743;Inserimento del valore solo un appassionato di musica e amo suonare la chitarra elettrica nel campo descrizione;solo un appassionato di musica e amo suonare la chitarra elettrica;5992
+1695024089397;Fine esperimento 3 ;;29568

@@ -1,0 +1,64 @@
+{
+  "form": {
+    "action": "/submit",
+    "method": "POST",
+    "name":   "experiment3",
+    "id":     "experiment3"
+  },
+  "fields": [
+    {
+      "label": "Name",
+      "type": "text",
+      "name": "name",
+      "id": "name",
+      "button": {
+        "type": "button",
+        "name": "nameSpeech",
+        "id": "nameSpeech",
+        "icon": "fa fa-microphone",
+        "action": "nameSpeech"
+      }
+    },
+    {
+      "label": "Surname",
+      "type": "text",
+      "name": "surname",
+      "id": "surname",
+      "button": {
+        "type": "button",
+        "name": "surnameSpeech",
+        "id": "surnameSpeech",
+        "icon": "fa fa-microphone",
+        "action": "surnameSpeech"
+      }
+    },
+    {
+      "label": "Gender",
+      "type": "select",
+      "name": "gender",
+      "id": "gender",
+      "size": "3",
+      "options": ["Male","Female","Other"],
+      "button": {
+        "type": "button",
+        "name": "genderSpeech",
+        "id": "genderSpeech",
+        "icon": "fa fa-microphone",
+        "action": "genderSpeech"
+      }
+    },
+    {
+      "label": "Description",
+      "type": "textarea",
+      "name": "description",
+      "id": "description",
+      "button": {
+        "type": "button",
+        "name": "descriptionSpeech",
+        "id": "descriptionSpeech",
+        "icon": "fa fa-microphone",
+        "action": "descriptionSpeech"
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694503824177;Avvio esperimento 1 ;;0
+1694503830063;Inserimento del valore mario nel campo nome;mario;5886
+1694503834678;Inserimento del valore rossi nel campo cognome;rossi;4615
+1694503839881;Selezione del valore uomo nella select genere;uomo;5203
+1694503852600;Inserimento del valore sono un ragazzo molto solare che ama gli animali e stare all'aperto mi piace molto il calcio punto nel campo descrizione;sono un ragazzo molto solare che ama gli animali e stare all'aperto mi piace molto il calcio punto;12719
+1694503867370;Errore comando descrizione valore sono un ragazzo molto solare che ama gli animali e stare la pelle aperto mi piace molto il calcio non capito;descrizione valore sono un ragazzo molto solare che ama gli animali e stare la pelle aperto mi piace molto il calcio;14770
+1694503885885;Inserimento del valore sono un ragazzo molto solare che ama gli animali e stare all'aperto mi piace molto il calcio nel campo descrizione;sono un ragazzo molto solare che ama gli animali e stare all'aperto mi piace molto il calcio;18515
+1694503888919;Fine esperimento 1 ;;64742

@@ -1,0 +1,6 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694590688645;Avvio esperimento 1 ;;0
+1694590692679;Selezione del valore donna nella select genere;donna;4034
+1694590697169;Selezione del valore piemonte nella select regione;piemonte;4490
+1694590702168;Selezione del valore biella nella select provincia;biella;4999
+1694590704600;Fine esperimento 1 ;;15955

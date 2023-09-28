@@ -1,0 +1,76 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694507449987;Avvio esperimento 3 ;;0
+1694507453419;Fine riproduzione del testo: Le opzioni per la lista genere sono;;428
+1694507455518;Fine riproduzione del testo: Vuoi selezionare Uomo ?;;3264
+1694507457596;Esecuzione comando yes per confermare il valore Uomo della select Uomo;yes;2078
+1694507462728;Fine riproduzione del testo: Le opzioni per la lista regione sono;;2159
+1694507465058;Fine riproduzione del testo: Vuoi selezionare Abruzzo ?;;3313
+1694507467137;Esecuzione comando no per non confermare il valore Abruzzo della select Abruzzo;no;2079
+1694507469658;Fine riproduzione del testo: Vuoi selezionare Basilicata ?;;323
+1694507471730;Esecuzione comando no per non confermare il valore Basilicata della select Basilicata;no;2072
+1694507474085;Fine riproduzione del testo: Vuoi selezionare Calabria ?;;305
+1694507476124;Esecuzione comando no per non confermare il valore Calabria della select Calabria;no;2039
+1694507478389;Fine riproduzione del testo: Vuoi selezionare Campania ?;;145
+1694507480425;Esecuzione comando no per non confermare il valore Campania della select Campania;no;2036
+1694507483019;Fine riproduzione del testo: Vuoi selezionare Emilia Romagna ?;;181
+1694507485061;Esecuzione comando no per non confermare il valore Emilia Romagna della select Emilia Romagna;no;2042
+1694507488338;Fine riproduzione del testo: Vuoi selezionare Friuli Venezia Giulia ?;;280
+1694507490393;Esecuzione comando no per non confermare il valore Friuli Venezia Giulia della select Friuli Venezia Giulia;no;2055
+1694507492751;Fine riproduzione del testo: Vuoi selezionare Lazio ?;;398
+1694507494793;Esecuzione comando no per non confermare il valore Lazio della select Lazio;no;2042
+1694507497029;Fine riproduzione del testo: Vuoi selezionare Liguria ?;;242
+1694507499184;Esecuzione comando no per non confermare il valore Liguria della select Liguria;no;2155
+1694507501709;Fine riproduzione del testo: Vuoi selezionare Lombardia ?;;406
+1694507503739;Esecuzione comando no per non confermare il valore Lombardia della select Lombardia;no;2030
+1694507505896;Fine riproduzione del testo: Vuoi selezionare Marche ?;;220
+1694507507961;Esecuzione comando no per non confermare il valore Marche della select Marche;no;2065
+1694507510319;Fine riproduzione del testo: Vuoi selezionare Molise ?;;381
+1694507512382;Esecuzione comando no per non confermare il valore Molise della select Molise;no;2063
+1694507514618;Fine riproduzione del testo: Vuoi selezionare Piemonte ?;;159
+1694507516636;Esecuzione comando no per non confermare il valore Piemonte della select Piemonte;no;2018
+1694507518971;Fine riproduzione del testo: Vuoi selezionare Puglia ?;;396
+1694507521017;Esecuzione comando no per non confermare il valore Puglia della select Puglia;no;2046
+1694507523559;Fine riproduzione del testo: Vuoi selezionare Sardegna ?;;433
+1694507525809;Esecuzione comando yes per confermare il valore Sardegna della select Sardegna;yes;2250
+1694507531848;Fine riproduzione del testo: Le opzioni per la lista provincia sono;;3003
+1694507534368;Fine riproduzione del testo: Vuoi selezionare Agrigento ?;;3378
+1694507536450;Esecuzione comando no per non confermare il valore Agrigento della select Agrigento;no;2082
+1694507538855;Fine riproduzione del testo: Vuoi selezionare Alessandria ?;;233
+1694507541029;Esecuzione comando no per non confermare il valore Alessandria della select Alessandria;no;2174
+1694507543369;Fine riproduzione del testo: Vuoi selezionare Ancona ?;;385
+1694507545496;Esecuzione comando no per non confermare il valore Ancona della select Ancona;no;2127
+1694507547726;Fine riproduzione del testo: Vuoi selezionare Aosta ?;;355
+1694507549753;Esecuzione comando no per non confermare il valore Aosta della select Aosta;no;2027
+1694507551978;Fine riproduzione del testo: Vuoi selezionare L'Aquila ?;;254
+1694507554022;Esecuzione comando no per non confermare il valore L'Aquila della select L'Aquila;no;2044
+1694507556389;Fine riproduzione del testo: Vuoi selezionare Arezzo ?;;390
+1694507558461;Esecuzione comando no per non confermare il valore Arezzo della select Arezzo;no;2072
+1694507561191;Fine riproduzione del testo: Vuoi selezionare Ascoli Piceno ?;;331
+1694507563243;Esecuzione comando no per non confermare il valore Ascoli Piceno della select Ascoli Piceno;no;2052
+1694507565439;Fine riproduzione del testo: Vuoi selezionare Asti ?;;365
+1694507567498;Esecuzione comando no per non confermare il valore Asti della select Asti;no;2059
+1694507569762;Fine riproduzione del testo: Vuoi selezionare Avellino ?;;251
+1694507571785;Esecuzione comando no per non confermare il valore Avellino della select Avellino;no;2023
+1694507573799;Fine riproduzione del testo: Vuoi selezionare Bari ?;;221
+1694507575843;Esecuzione comando no per non confermare il valore Bari della select Bari;no;2044
+1694507578921;Fine riproduzione del testo: Vuoi selezionare Barletta Andria Trani ?;;127
+1694507580952;Esecuzione comando no per non confermare il valore Barletta Andria Trani della select Barletta Andria Trani;no;2031
+1694507583251;Fine riproduzione del testo: Vuoi selezionare Belluno ?;;327
+1694507585310;Esecuzione comando no per non confermare il valore Belluno della select Belluno;no;2059
+1694507587831;Fine riproduzione del testo: Vuoi selezionare Benevento ?;;388
+1694507589919;Esecuzione comando no per non confermare il valore Benevento della select Benevento;no;2088
+1694507592198;Fine riproduzione del testo: Vuoi selezionare Bergamo ?;;262
+1694507594281;Esecuzione comando no per non confermare il valore Bergamo della select Bergamo;no;2083
+1694507596312;Fine riproduzione del testo: Vuoi selezionare Biella ?;;156
+1694507598389;Esecuzione comando no per non confermare il valore Biella della select Biella;no;2077
+1694507600793;Fine riproduzione del testo: Vuoi selezionare Bologna ?;;416
+1694507602840;Esecuzione comando no per non confermare il valore Bologna della select Bologna;no;2047
+1694507605063;Fine riproduzione del testo: Vuoi selezionare Bolzano ?;;165
+1694507607117;Esecuzione comando no per non confermare il valore Bolzano della select Bolzano;no;2054
+1694507609253;Fine riproduzione del testo: Vuoi selezionare Brescia ?;;183
+1694507611298;Esecuzione comando no per non confermare il valore Brescia della select Brescia;no;2045
+1694507613653;Fine riproduzione del testo: Vuoi selezionare Brindisi ?;;315
+1694507615687;Esecuzione comando no per non confermare il valore Brindisi della select Brindisi;no;2034
+1694507617853;Fine riproduzione del testo: Vuoi selezionare Cagliari ?;;185
+1694507620121;Esecuzione comando yes per confermare il valore Cagliari della select Cagliari;yes;2268
+1694507622486;Fine esperimento 3 ;;172499

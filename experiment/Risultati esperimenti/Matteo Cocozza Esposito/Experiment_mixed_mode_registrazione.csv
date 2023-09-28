@@ -1,0 +1,7 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1695022597374;Avvio esperimento 4;;0
+1695022600542;Inserimento del valore antonio nel campo nome;antonio;3168
+1695022605703;Inserimento del valore esposito nel campo cognome;esposito;3076
+1695022611915;Inserimento del valore tony@gmail.com nel campo email;tony@gmail.com;4653
+1695022620780;Inserimento del valore n7i6o4 nel campo password;n7i6o4;6520
+1695022623149;Fine esperimento 4 ;;25775

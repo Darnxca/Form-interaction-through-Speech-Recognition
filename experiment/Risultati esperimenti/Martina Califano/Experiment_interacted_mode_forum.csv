@@ -1,0 +1,44 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694516544811;Avvio esperimento 3 ;;0
+1694516548547;Inserimento del valore sara nel campo nome;sara;3735
+1694516553820;Inserimento del valore verdi nel campo cognome;verdi;3746
+1694516558689;Inserimento del valore saretta nel campo soprannome;saretta;3236
+1694516566507;Inserimento del valore saretta@gmail.com nel campo email;saretta@gmail.com;6307
+1694516572116;Inserimento del valore 18 nel campo età;18;3355
+1694516580493;Fine riproduzione del testo: Le opzioni per la lista provincia sono;;5312
+1694516582912;Fine riproduzione del testo: Vuoi selezionare Agrigento ?;;3311
+1694516584939;Esecuzione comando no per non confermare il valore Agrigento della select Agrigento;no;2027
+1694516587342;Fine riproduzione del testo: Vuoi selezionare Alessandria ?;;225
+1694516589387;Esecuzione comando no per non confermare il valore Alessandria della select Alessandria;no;2045
+1694516591649;Fine riproduzione del testo: Vuoi selezionare Ancona ?;;308
+1694516597947;Fine riproduzione del testo: Vuoi selezionare Aosta ?;;4411
+1694516600030;Esecuzione comando no per non confermare il valore Aosta della select Aosta;no;2083
+1694516602182;Fine riproduzione del testo: Vuoi selezionare L'Aquila ?;;185
+1694516604248;Esecuzione comando no per non confermare il valore L'Aquila della select L'Aquila;no;2066
+1694516606452;Fine riproduzione del testo: Vuoi selezionare Arezzo ?;;226
+1694516608484;Esecuzione comando no per non confermare il valore Arezzo della select Arezzo;no;2032
+1694516611212;Fine riproduzione del testo: Vuoi selezionare Ascoli Piceno ?;;327
+1694516613299;Esecuzione comando no per non confermare il valore Ascoli Piceno della select Ascoli Piceno;no;2087
+1694516615452;Fine riproduzione del testo: Vuoi selezionare Asti ?;;313
+1694516617541;Esecuzione comando no per non confermare il valore Asti della select Asti;no;2089
+1694516619871;Fine riproduzione del testo: Vuoi selezionare Avellino ?;;314
+1694516621915;Esecuzione comando no per non confermare il valore Avellino della select Avellino;no;2044
+1694516623932;Fine riproduzione del testo: Vuoi selezionare Bari ?;;223
+1694516625976;Esecuzione comando no per non confermare il valore Bari della select Bari;no;2044
+1694516629312;Fine riproduzione del testo: Vuoi selezionare Barletta Andria Trani ?;;380
+1694516631361;Esecuzione comando no per non confermare il valore Barletta Andria Trani della select Barletta Andria Trani;no;2049
+1694516633599;Fine riproduzione del testo: Vuoi selezionare Belluno ?;;261
+1694516635683;Esecuzione comando no per non confermare il valore Belluno della select Belluno;no;2084
+1694516638052;Fine riproduzione del testo: Vuoi selezionare Benevento ?;;232
+1694516640065;Esecuzione comando no per non confermare il valore Benevento della select Benevento;no;2013
+1694516642251;Fine riproduzione del testo: Vuoi selezionare Bergamo ?;;171
+1694516644307;Esecuzione comando no per non confermare il valore Bergamo della select Bergamo;no;2056
+1694516646562;Fine riproduzione del testo: Vuoi selezionare Biella ?;;384
+1694516648617;Esecuzione comando yes per confermare il valore Biella della select Biella;yes;2055
+1694516655032;Fine riproduzione del testo: Le opzioni per la lista genere sono;;3414
+1694516657022;Fine riproduzione del testo: Vuoi selezionare Uomo ?;;3160
+1694516659071;Esecuzione comando no per non confermare il valore Uomo della select Uomo;no;2049
+1694516661048;Fine riproduzione del testo: Vuoi selezionare Donna ?;;146
+1694516663072;Esecuzione comando yes per confermare il valore Donna della select Donna;yes;2024
+1694516670737;Inserimento del valore luca argentero nel campo attorepreferito;luca argentero;4393
+1694516672230;Fine esperimento 3 ;;127419

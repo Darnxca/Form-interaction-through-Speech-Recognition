@@ -1,0 +1,12 @@
+Timestamp; Azione;Valore; Tempo di esecuzione (ms)
+1,69E+12;Avvio esperimento 1 ;;0
+1,69E+12;Inserimento del valore mario nel campo nome;mario;5523
+1,69E+12;Inserimento del valore rossi nel campo cognome;rossi;5195
+1,69E+12;Inserimento del valore e massa nel campo soprannome;e massa;4905
+1,69E+12;Inserimento del valore mars nel campo soprannome;mars;14206
+1,69E+12;Inserimento del valore mariorossi@gmail.com nel campo email;mariorossi@gmail.com;8166
+1,69E+12;Inserimento del valore 31 nel campo età;31;8131
+1,69E+12;Selezione del valore cagliari nella select provincia;cagliari;4819
+1,69E+12;Selezione del valore uomo nella select gender;uomo;6355
+1,69E+12;Inserimento del valore asia argento nel campo attorepreferito;asia argento;7612
+1,69E+12;Fine esperimento 1 ;;66788

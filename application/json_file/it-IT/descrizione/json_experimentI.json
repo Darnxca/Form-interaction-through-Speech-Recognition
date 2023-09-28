@@ -1,0 +1,64 @@
+{
+  "form": {
+    "action": "/submit",
+    "method": "POST",
+    "name":   "experiment3",
+    "id":     "experiment3"
+  },
+  "fields": [
+    {
+      "label": "Nome",
+      "type": "text",
+      "name": "nome",
+      "id": "nome",
+      "button": {
+        "type": "button",
+        "name": "nomeSpeech",
+        "id": "nomeSpeech",
+        "icon": "fa fa-microphone",
+        "action": "nomeSpeech"
+      }
+    },
+    {
+      "label": "Cognome",
+      "type": "text",
+      "name": "cognome",
+      "id": "cognome",
+      "button": {
+        "type": "button",
+        "name": "cognomeSpeech",
+        "id": "cognomeSpeech",
+        "icon": "fa fa-microphone",
+        "action": "cognomeSpeech"
+      }
+    },
+    {
+      "label": "Genere",
+      "type": "select",
+      "name": "genere",
+      "id": "genere",
+      "size": "3",
+      "options": ["Uomo","Donna","Altro"],
+      "button": {
+        "type": "button",
+        "name": "genereSpeech",
+        "id": "genereSpeech",
+        "icon": "fa fa-microphone",
+        "action": "genereSpeech"
+      }
+    },
+    {
+      "label": "Descrizione",
+      "type": "textarea",
+      "name": "descrizione",
+      "id": "descrizione",
+      "button": {
+        "type": "button",
+        "name": "descrizioneSpeech",
+        "id": "descrizioneSpeech",
+        "icon": "fa fa-microphone",
+        "action": "descrizioneSpeech"
+      }
+    }
+  ]
+}

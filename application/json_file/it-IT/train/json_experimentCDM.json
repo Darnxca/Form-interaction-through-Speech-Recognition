@@ -1,0 +1,34 @@
+{
+  "form": {
+    "action": "",
+    "method": "POST",
+    "name":   "experiment1",
+    "id":     "experiment1"
+  },
+  "fields": [
+    {
+      "label": "Nome",
+      "type": "text",
+      "name": "nome",
+      "id": "nome"
+    },
+    {
+      "label": "Genere",
+      "type": "select",
+      "name": "genere",
+      "id": "genere",
+      "size": "3",
+      "options": ["Uomo","Donna","Altro"]
+    },
+    {
+      "label": "Regione",
+      "type": "select",
+      "name": "regione",
+      "id": "regione",
+      "size": "3",
+      "options": ["Abruzzo","Basilicata","Calabria","Campania","Emilia Romagna","Friuli Venezia Giulia",
+                  "Lazio", "Liguria", "Lombardia", "Marche", "Molise", "Piemonte", "Puglia",
+                "Sardegna","Sicilia","Toscana","Trentino alto Adige","Umbria","Valle d'Aosta", "Veneto"]
+    }
+  ]
+}

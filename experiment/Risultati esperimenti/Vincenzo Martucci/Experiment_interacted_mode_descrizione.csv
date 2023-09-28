@@ -1,0 +1,11 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694602665881;Avvio esperimento 3 ;;0
+1694602670429;Inserimento del valore francesca nel campo nome;francesca;4548
+1694602676080;Inserimento del valore ferrari nel campo cognome;ferrari;3584
+1694602682278;Fine riproduzione del testo: Le opzioni per la lista genere sono;;3172
+1694602684270;Fine riproduzione del testo: Vuoi selezionare Uomo ?;;3184
+1694602686557;Esecuzione comando no per non confermare il valore Uomo della select Uomo;no;2287
+1694602688639;Fine riproduzione del testo: Vuoi selezionare Donna ?;;244
+1694602691395;Esecuzione comando yes per confermare il valore Donna della select Donna;yes;2756
+1694602704237;Inserimento del valore mi piace molto andare in palestra e sono appassionata di cinema nel campo descrizione;mi piace molto andare in palestra e sono appassionata di cinema;9151
+1694602707394;Fine esperimento 3 ;;41513

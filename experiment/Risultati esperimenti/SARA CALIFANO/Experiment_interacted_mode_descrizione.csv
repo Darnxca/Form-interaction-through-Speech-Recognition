@@ -1,0 +1,9 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694504901212;Avvio esperimento 3 ;;0
+1694504904385;Fine riproduzione del testo: Le opzioni per la lista genere sono;;173
+1694504906394;Fine riproduzione del testo: Vuoi selezionare Uomo ?;;3172
+1694504908481;Esecuzione comando yes per confermare il valore Uomo della select Uomo;yes;2087
+1694504912731;Inserimento del valore mario nel campo nome;mario;3170
+1694504916235;Inserimento del valore rossi nel campo cognome;rossi;3041
+1694504925943;Inserimento del valore sono un ragazzo molto solare che ama gli animali e stare all'aperto mi piace molto il calcio nel campo descrizione;sono un ragazzo molto solare che ama gli animali e stare all'aperto mi piace molto il calcio;8731
+1694504929676;Fine esperimento 3 ;;28464

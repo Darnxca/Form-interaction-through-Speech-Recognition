@@ -1,0 +1,16 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694503631786;Avvio esperimento 1 ;;0
+1694503637818;Inserimento del valore mario nel campo nome;mario;6032
+1694503643815;Inserimento del valore rossi nel campo cognome;rossi;5997
+1694503650255;Inserimento del valore mars nel campo soprannome;mars;6440
+1694503655240;Errore comando input email valore non capito;input email valore;4985
+1694503661908;Errore comando mario rossi@gmail.com non capito;mario rossi@gmail.com;6668
+1694503674938;Inserimento del valore mariorossi@gmail.com nel campo email;mariorossi@gmail.com;13030
+1694503681637;Inserimento del valore 31 nel campo età;31;6699
+1694503686908;Selezione del valore cagliari nella select provincia;cagliari;5271
+1694503692436;Errore comando input attore preferito non capito;input attore preferito;5528
+1694503696233;Errore comando valore asia argento non capito;valore asia argento;3797
+1694503703607;Errore comando input gender non capito;input gender;7374
+1694503709944;Selezione del valore uomo nella select genere;uomo;6337
+1694503716536;Inserimento del valore asia argento nel campo attorepreferito;asia argento;6592
+1694503719694;Fine esperimento 1 ;;87908

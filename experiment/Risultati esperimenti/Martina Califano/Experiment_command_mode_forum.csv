@@ -1,0 +1,12 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1694517305227;Avvio esperimento 1 ;;0
+1694517310437;Inserimento del valore sara nel campo nome;sara;5210
+1694517315138;Inserimento del valore verdi nel campo cognome;verdi;4701
+1694517320361;Inserimento del valore saretta nel campo soprannome;saretta;5223
+1694517327785;Inserimento del valore saetta@gmail.com nel campo email;saetta@gmail.com;7424
+1694517333666;Inserimento del valore 18 nel campo età;18;5881
+1694517338867;Selezione del valore biella nella select provincia;biella;5201
+1694517343657;Selezione del valore donna nella select genere;donna;4790
+1694517349358;Errore comando imputatore preferito valore luca argentero non capito;imputatore preferito valore luca argentero;5701
+1694517355888;Inserimento del valore luca argentero nel campo attorepreferito;luca argentero;6530
+1694517358756;Fine esperimento 1 ;;53529

@@ -1,0 +1,52 @@
+Timestamp; Azione; Valore; Tempo di esecuzione (ms)
+1695025969391;Avvio esperimento 3 ;;0
+1695025972445;Inserimento del valore antonio nel campo nome;antonio;3054
+1695025977363;Inserimento del valore esposito nel campo cognome;esposito;3213
+1695025981740;Inserimento del valore tony nel campo soprannome;tony;3101
+1695025992893;Inserimento del valore tony@gmail.com nel campo email;tony@gmail.com;4850
+1695025999251;Inserimento del valore 63 nel campo età;63;2861
+1695026010464;Fine riproduzione del testo: Le opzioni per la lista provincia sono;;8152
+1695026012886;Fine riproduzione del testo: Vuoi selezionare Agrigento ?;;3309
+1695026014932;Esecuzione comando no per non confermare il valore Agrigento della select Agrigento;no;2046
+1695026017477;Fine riproduzione del testo: Vuoi selezionare Alessandria ?;;373
+1695026019555;Esecuzione comando no per non confermare il valore Alessandria della select Alessandria;no;2078
+1695026021826;Fine riproduzione del testo: Vuoi selezionare Ancona ?;;316
+1695026024007;Esecuzione comando no per non confermare il valore Ancona della select Ancona;no;2181
+1695026026107;Fine riproduzione del testo: Vuoi selezionare Aosta ?;;222
+1695026028433;Esecuzione comando no per non confermare il valore Aosta della select Aosta;no;2326
+1695026030846;Fine riproduzione del testo: Vuoi selezionare L'Aquila ?;;447
+1695026032870;Esecuzione comando no per non confermare il valore L'Aquila della select L'Aquila;no;2024
+1695026034997;Fine riproduzione del testo: Vuoi selezionare Arezzo ?;;151
+1695026037050;Esecuzione comando no per non confermare il valore Arezzo della select Arezzo;no;2053
+1695026039636;Fine riproduzione del testo: Vuoi selezionare Ascoli Piceno ?;;189
+1695026041719;Esecuzione comando no per non confermare il valore Ascoli Piceno della select Ascoli Piceno;no;2083
+1695026043794;Fine riproduzione del testo: Vuoi selezionare Asti ?;;243
+1695026046041;Esecuzione comando no per non confermare il valore Asti della select Asti;no;2247
+1695026048286;Fine riproduzione del testo: Vuoi selezionare Avellino ?;;231
+1695026050359;Esecuzione comando no per non confermare il valore Avellino della select Avellino;no;2073
+1695026052264;Fine riproduzione del testo: Vuoi selezionare Bari ?;;113
+1695026054277;Esecuzione comando no per non confermare il valore Bari della select Bari;no;2013
+1695026057586;Fine riproduzione del testo: Vuoi selezionare Barletta Andria Trani ?;;358
+1695026059836;Esecuzione comando no per non confermare il valore Barletta Andria Trani della select Barletta Andria Trani;no;2250
+1695026062197;Fine riproduzione del testo: Vuoi selezionare Belluno ?;;381
+1695026064331;Esecuzione comando no per non confermare il valore Belluno della select Belluno;no;2134
+1695026066656;Fine riproduzione del testo: Vuoi selezionare Benevento ?;;195
+1695026069068;Esecuzione comando no per non confermare il valore Benevento della select Benevento;no;2412
+1695026071447;Fine riproduzione del testo: Vuoi selezionare Bergamo ?;;369
+1695026073939;Esecuzione comando no per non confermare il valore Bergamo della select Bergamo;no;2492
+1695026076215;Fine riproduzione del testo: Vuoi selezionare Biella ?;;399
+1695026078464;Esecuzione comando no per non confermare il valore Biella della select Biella;no;2249
+1695026080623;Fine riproduzione del testo: Vuoi selezionare Bologna ?;;163
+1695026082709;Esecuzione comando yes per confermare il valore Bologna della select Bologna;yes;2086
+1695026090542;Fine riproduzione del testo: Le opzioni per la lista genere sono;;4837
+1695026092531;Fine riproduzione del testo: Vuoi selezionare Uomo ?;;3156
+1695026096674;Esecuzione comando no per non confermare il valore Uomo della select Uomo;no;4143
+1695026098713;Fine riproduzione del testo: Vuoi selezionare Donna ?;;207
+1695026100771;Esecuzione comando no per non confermare il valore Donna della select Donna;no;2058
+1695026103033;Fine riproduzione del testo: Vuoi selezionare Altro ?;;388
+1695026105067;Esecuzione comando yes per confermare il valore Altro della select Altro;yes;2034
+1695026110582;Fine riproduzione del testo: Le opzioni per la lista genere sono;;2522
+1695026112742;Fine riproduzione del testo: Vuoi selezionare Uomo ?;;3314
+1695026114980;Esecuzione comando yes per confermare il valore Uomo della select Uomo;yes;2238
+1695026122365;Inserimento del valore monica bellucci nel campo attorepreferito;monica bellucci;3551
+1695026125362;Fine esperimento 3 ;;155972

@@ -1,0 +1,13 @@
+
+ANOVA_table_for_Task Completion Time solo select (s)
+=================================================================================
+Effect                        df        SS            MS         F        p      
+---------------------------------------------------------------------------------
+Participant                   15  5579824604,750  371988306,983    
+Metodo                         3  183396373031,125  61132124343,708   129,156    0,0000
+Metodo_x_Par                  45  21299345661,875  473318792,486    
+=================================================================================
+Data_file: DV Task Completion Time solo select.txt
+
+Summary statement:
+The effect of metodo on task completion time solo select was statistically significant (F(3, 45) = 129,156, p < .0001).

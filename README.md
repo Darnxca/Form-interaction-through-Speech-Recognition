@@ -4,7 +4,7 @@
 
 - Utilizzare una qualsiasi applicazione che permetta di avere un localhost
 - Usare come browser web: Google Chrome o Edge.
-- Avviare il file index.html che permette di navigare fra i vari esperimenti
+- Avviare il file index.html che permette di navigare fra i vari esperimenti.
 
 
 ### Esperimenti
